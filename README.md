@@ -13,6 +13,10 @@
 
 С проектами можно ознакомиться [в этом репозитории](https://github.com/maryaborisova/portfolio)
 
+Связаться со мной:  
+📫 mary.borisova@list.ru  
+💬 https://t.me/Maria_Borisova
+
 <!--
 **maryaborisova/maryaborisova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
